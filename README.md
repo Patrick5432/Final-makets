@@ -1,1 +1,1 @@
-https://vercel.com/patrick5432/supreme-lobby
+https://supreme-lobby.vercel.app/
