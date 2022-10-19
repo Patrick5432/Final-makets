@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    height: 100%;
+    line-height: 1;
+}
+
+.container {
+    background: url('./img/Desktop\ -\ supreme\ home\ \(1\).png') no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
